@@ -40,17 +40,4 @@ Konfiguracja ta znajduje się w pliku `.github/workflows/main.yml`. Dzięki temu
 
 Wyniki tych automatycznych testów można zobaczyć w zakładce "Actions" w repozytorium GitHub.
 
-## Dlaczego to jest ważne?
-
-Automatyczne testy są kluczowym elementem nowoczesnego procesu tworzenia oprogramowania. Pozwalają na:
-
-* **Wczesne wykrywanie błędów:** Testy są uruchamiane automatycznie, co pozwala na szybkie zidentyfikowanie problemów.
-* **Zwiększenie jakości oprogramowania:** Regularne testowanie zapewnia, że nowe zmiany nie wprowadzają regresji.
-* **Usprawnienie procesu rozwoju:** Automatyzacja testów zwalnia czas programistów, którzy mogą skupić się na tworzeniu nowych funkcjonalności.
-* **Lepszą dokumentację:** Testy stanowią również formę dokumentacji, pokazując, jak powinna działać aplikacja.
-
-## Kontakt
-
-W przypadku jakichkolwiek pytań dotyczących tego projektu, proszę o kontakt.
-
 ---
