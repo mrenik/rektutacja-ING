@@ -1,4 +1,4 @@
-# Automatyczne Testy Funkcjonalne Strony ING
+# Testy Funkcjonalne Strony ING
 
 Ten projekt zawiera zestaw automatycznych testów funkcjonalnych, które weryfikują kluczowe aspekty działania strony internetowej ING. Testy te zostały stworzone przy użyciu nowoczesnych narzędzi do automatyzacji przeglądarek: Pytest i Playwright.
 
