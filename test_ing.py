@@ -3,7 +3,7 @@ from playwright.sync_api import Page
 
 
 def test_cookie_consent(page: Page):
-    page.set_default_timeout(60000)
+    page.set_default_timeout(300000)
     page.goto("https://www.ing.pl/") 
 
     page.get_by_role("button", name="Dostosuj").click()  
